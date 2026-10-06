@@ -8,6 +8,7 @@
 ![Alignment](https://img.shields.io/badge/Aligned%20to-Network%2B%20%7C%20Security%2B%20%7C%20CySA%2B-orange)
 
 ---
+**Watch Me Build This Lab!:** https://www.loom.com/share/7ef31a58aedd40d4a79f2ba94e30f333
 
 ## Table of Contents
 
