@@ -1,4 +1,4 @@
-# Lab 2: Wireshark & Network Analysis
+# Wireshark & Network Analysis
 
 > Capturing, filtering, and interpreting live network traffic to diagnose connectivity issues and spot security risks at the packet level.
 
